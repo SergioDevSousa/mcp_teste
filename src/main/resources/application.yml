@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: teste
+  ai:
+    mcp:
+      server:
+        name: teste-mcp
+        version: 1.0.0
+        protocol: STREAMABLE
+
+server:
+  address: 127.0.0.1
+  port: 8081
